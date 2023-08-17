@@ -7,7 +7,7 @@ const prizes = [
     { name: "Banana", image: "banana.png" },
     { name: "Blue Shell", image: "blue_shell.png" },
     { name: "Mushroom", image: "mushroom.png" },
-    { name: "Star", image: "star.png" },
+    { name: "Star", image: "star1.png" },
     { name: "Green Shell", image: "green_shell.png" },
     { name: "Red Shell", image: "red_shell.png" }
 ];
