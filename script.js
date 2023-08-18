@@ -4,12 +4,12 @@ const result = document.getElementById("result");
 const ctx = wheel.getContext("2d");
 
 const prizes = [
-    { name: "Banana", image: "banana.png" },
-    { name: "Blue Shell", image: "blue_shell.png" },
-    { name: "Mushroom", image: "mushroom.png" },
-    { name: "Star", image: "star1.png" },
-    { name: "Green Shell", image: "green_shell.png" },
-    { name: "Red Shell", image: "red_shell.png" }
+    { name: "Dança Sensual", image: "banana.png" },
+    { name: "Campo Minado", image: "bomb.png" },
+    { name: "Aconselhamentos", image: "pngimg.com - mario_PNG75.png" },
+    { name: "Show Do Milhão", image: "star1.png" },
+    { name: "Me pede Desculpas", image: "png-transparent-black-bullet-illustration-new-super-mario-bros-u-mario-kart-8-bullet-white-text-super-mario-bros.png" },
+    { name: "Rainbow Road", image: "png-transparent-mario-kart-64-super-mario-kart-mario-kart-7-mario-kart-wii-mario-kart-super-circuit-rainbow-road-super-mario-bros-video-game-light-thumbnail.png" }
 ];
 
 const numPrizes = prizes.length;
